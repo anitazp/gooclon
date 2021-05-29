@@ -1,0 +1,8 @@
+.search__buttons {
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+.search__hideButtons{
+    display: none;
+}
