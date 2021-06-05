@@ -15,7 +15,7 @@ import { selectTextString } from "../features/textSlice"
 import { useSelector } from "react-redux"
 import useGoogleSearch from "../UseGoogleSearch"
 import Result from "../components/Result"
-import { useEffect } from "react"
+
 
 
 const SearchPage = () => {
